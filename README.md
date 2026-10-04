@@ -8,4 +8,4 @@
 - [Explaining Azure App Registrations](https://github.com/earkevin11/Explaining-App-Registrations-/blob/main/AZURE_APP_REGISTRATIONS_GUIDE.md)
 - [When to request for Enterprise Applications vs App Registrations](https://github.com/earkevin11/Requesting-for-Enterprise-Application-vs-App-Registrations-in-Azure/blob/main/README.md)
 - [Application Permissions](https://github.com/earkevin11/Application-Registration-Permissions-in-Entra-ID)
-- [Cross Tenant Synchronization vs Multitenant Organization (MTO)(https://github.com/earkevin11/Cross-Tenant-Sync-CTS-and-Multi-Tenant-Organizations-MTO-/blob/main/README.md)
+- [Cross Tenant Synchronization vs Multitenant Organization (MTO)](https://github.com/earkevin11/Cross-Tenant-Sync-CTS-and-Multi-Tenant-Organizations-MTO-/blob/main/README.md)
